@@ -1,0 +1,206 @@
+Todd Gurley 1.0
+Le’Veon Bell 2.0
+David Johnson 3.5
+Ezekiel Elliott 3.5
+Antonio Brown 5.5
+Alvin Kamara 6.0 ----- 1
+Saquon Barkley 7.5 ----- 1
+Leonard Fournette 8.0 ----- 2
+DeAndre Hopkins 8.5
+Melvin Gordon 9.5
+Julio Jones 11.5
+Kareem Hunt 12.0
+Odell Beckham 12.5
+Michael Thomas 15.0
+Devonta Freeman 16.0 ----- 2
+Keenan Allen 16.5
+Davante Adams 17.0
+Dalvin Cook 17.5
+Christian McCaffrey 18.5
+A.J. Green 19.0
+Rob Gronkowski 20.5
+Mike Evans 23.0
+Tyreek Hill 25.0 ------- 3
+T.Y. Hilton 26.0 ------- 3
+Jerick McKinnon 26.5 ----- 3
+Stefon Diggs 26.5
+Travis Kelce 28.5
+Doug Baldwin 28.5 ----- 3
+Joe Mixon 28.5 -----3
+Aaron Rodgers 28.5
+Jordan Howard 31.0 ----- 3
+Amari Cooper 31.5
+Adam Thielen 33.5
+Zach Ertz 35.0
+Cam Newton 37.0
+Golden Tate 38.0
+Alex Collins 38.0 ----- 4
+Marvin Jones 40.0 ----- 5
+Juju Smith-Schuster 40.5
+Kenyan Drake 41.5 ------ 4
+Russell Wilson 41.5
+Allen Robinson 42.0
+Larry Fitzgerald 43.0 
+LeSean McCoy 43.0 ---- 5
+Jay Ajayi 43.5
+Tom Brady 44.0
+Jarvis Landry 46.0
+Brandin Cooks 47.0
+Demaryius Thomas 47.5
+Lamar Miller 47.5 ---- 5
+Derrick Henry 47.5
+Chris Hogan 54.5
+Deshaun Watson 54.5
+Mark Ingram 56.0
+Tevin Coleman 58.0 ----- 7 (N/A, TE/QB?)
+Royce Freeman 58.0
+Sammy Watkins 58.0 ---- 6
+Michael Crabtree 58.5 ---- 6
+Corey Davis 60.0
+Robby Anderson 60.5 ----- 6
+Josh Gordon 62.5
+Emmanuel Sanders 63.0 -----6
+Marquise Goodwin 63.0 -----6
+Alshon Jeffery 65.0 ----- 8
+Cooper Kupp 66.0
+Drew Brees 66.0
+Randall Cobb 67.0
+Jamison Crowder 68.0
+Jimmy Graham 70.0
+Robert Woods 70.5
+Delanie Walker 71.5
+Greg Olsen 71.5
+Devin Funchess 72.5
+Keelan Cole 73.5 ------ 11
+Pierre Garcon 74.5
+Marshawn Lynch 75.0
+Kerryon Johnson 75.5
+Will Fuller V 77.5
+Carson Wentz 79.5
+Kenny Stills 83.0
+Jordy Nelson 84.0
+Dion Lewis 84.5
+Rex Burkhead 84.5
+Evan Engram 86.5
+Ben Roethlisberger 86.5
+Sterling Shepard 88.5
+Nelson Agholor 88.5
+Philip Rivers 89.5
+Kelvin Benjamin 90.0 ------
+Jordan Reed 90.5
+Kyle Rudolph 90.5
+Kirk Cousins 91.0
+Matthew Stafford 94.0
+Julian Edelman 95.5 -----
+Patrick Mahomes 96.0
+Andrew Luck 97.0
+Jamaal Williams 98.5
+Jimmy Garoppolo 98.5
+Dez Bryant 101.0
+Matt Ryan 102.0
+Isaiah Crowell 103.5
+Marlon Mack 104.5 ----
+Jared Goff 104.5
+Tarik Cohen 105.0
+DeVante Parker 106.5
+Allen Hurns 106.5
+Sony Michel 108.5
+Dak Prescott 108.5
+Kenny Golladay 108.5
+Chris Thompson 111.5
+Marcus Mariota 112.0
+Alex Smith 113.5
+DeSean Jackson 114.0
+Tyler Lockett 115.0
+Chris Carson 116.0
+Peyton Barber 116.0
+Trey Burton 116.5
+Jack Doyle 117.0
+Rishard Matthews 118.5
+Mohamed Sanu 120.5
+Paul Richardson 123.0
+D.J. Moore 124.5
+Duke Johnson Jr. 125.0
+Carlos Hyde 125.5
+Rashaad Penny 126.0
+Blake Bortles 127.5
+Cameron Meredith 127.5
+Ted Ginn Jr. 127.5
+Calvin Ridley 129.0
+Ronald Jones 130.5
+John Ross 130.5
+David Njoku 133.0
+Dede Westbrook 135.5
+Josh Doctson 136.0
+Anthony Miller 136.5
+Derek Carr 137.5
+Tyrell Williams 138.5
+John Brown 139.5
+James White 140.5
+Devontae Booker 143.0
+Giovani Bernard 145.0
+Andy Dalton 145.0
+Michael Gallup 146.5
+Christian Kirk 147.0
+Chris Godwin 148.0
+Cameron Brate 148.5
+Mike Williams 149.5
+Danny Amendola 150.0
+Eric Ebron 150.0
+Jared Cook 151.0
+Austin Seferian-Jenkins 152.5
+Jermaine Kearse 153.0
+C.J. Anderson 153.5
+Mitch Trubisky 154.0
+Dante Pettis 155.0
+Mike Wallace 156.0
+Courtland Sutton 156.5
+Donte Moncrief 157.0
+Theo Riddick 157.5
+Tyler Eifert 159.5
+O.J. Howard 160.0
+Austin Hooper 161.5
+Charles Clay 162.0
+Travis Benjamin Standard R 163
+Martavis Bryant 163.5
+Mike Gesicki 165.0
+Case Keenum 166.0
+Bilal Powell 167.5
+Eli Manning 168.5
+Ryan Tannehill 170.5
+George Kittle 172.0
+James Washington 172.0
+Ben Watson 174.0
+Terrance Williams 174.0
+Ty Montgomery 175.0
+Matt Breida 175.0
+Austin Ekeler 175
+Albert Wilson 175.0
+Kenneth Dixon 179
+Chris Ivory 180.0
+Geronimo Allison 182.0
+Vance McDonald 184.0
+Ricky Seals-Jones 184.0
+Corey Clement 184.5
+Quincy Enunwa 185.0
+Nyheim Hines 187.5
+Latavius Murray 187.5
+Nick Chubb 187.5
+Jameis Winston 190.0
+D’Onta Foreman 190.5
+Javorius Allen 195.0
+T.J. Yeldon 196
+Aaron Jones 200.0
+Darren Sproles 200
+Tre’Quan Smith 201.0
+Jordan Wilkins 201.0
+Chase Edmonds 201.0
+Hayden Hurst 201
+Corey Grant 201.0
+Adrian Peterson 201.0
+Ed Dickson 201
+Marqise Lee Standard R 201
+LeGarrette Blount Standard R 201
+James Conner Standard R 201
+Vernon Davis Standard R 201
+Samaje Perine Standard R 201
